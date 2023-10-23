@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64e9c2a3-6b0a-45fb-a4c8-d9f2c75b98cc" name="Changes" comment="pruebaCasa2">
-      <change afterPath="$PROJECT_DIR$/src/operaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CicloFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CicloFor">
+    <configuration name="CicloFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CicloFor" />
+      <module name="Casa2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="operaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operaciones" />
       <module name="Casa2" />
@@ -58,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CicloFor" />
         <item itemvalue="Application.operaciones" />
       </list>
     </recent_temporary>
@@ -74,7 +81,7 @@
       <workItem from="1697742350666" duration="59000" />
       <workItem from="1697743999726" duration="791000" />
       <workItem from="1697823356330" duration="4412000" />
-      <workItem from="1698079827963" duration="2409000" />
+      <workItem from="1698079827963" duration="3228000" />
     </task>
     <task id="LOCAL-00001" summary="pruebaCasa2">
       <option name="closed" value="true" />
@@ -108,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697744760425</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pruebaCasa2">
+      <option name="closed" value="true" />
+      <created>1698082283729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698082283729</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
