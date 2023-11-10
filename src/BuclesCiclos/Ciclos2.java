@@ -1,3 +1,5 @@
+package BuclesCiclos;
+
 public class Ciclos2 {
     public static void main(String[] args) {
 

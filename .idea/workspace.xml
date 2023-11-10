@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64e9c2a3-6b0a-45fb-a4c8-d9f2c75b98cc" name="Changes" comment="pruebaCasa2">
-      <change afterPath="$PROJECT_DIR$/src/Buclewhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CicloDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ciclos2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForWhileDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuclesCiclos/Fibonachi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buclewhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuclesCiclos/Buclewhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CicloDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuclesCiclos/CicloDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CicloFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuclesCiclos/CicloFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ciclos2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuclesCiclos/Ciclos2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForWhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuclesCiclos/ForWhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/promedio.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,53 +39,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ñoño/IdeaProjects/Casa2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ñoño/IdeaProjects/Casa2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Ciclos2">
+}]]></component>
+  <component name="RunManager" selected="Application.Fibonachi">
     <configuration name="Buclewhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buclewhile" />
+      <option name="MAIN_CLASS_NAME" value="BuclesCiclos.Buclewhile" />
       <module name="Casa2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="CicloDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CicloDoWhile" />
+      <option name="MAIN_CLASS_NAME" value="BuclesCiclos.CicloDoWhile" />
       <module name="Casa2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Ciclos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ciclos2" />
+      <option name="MAIN_CLASS_NAME" value="BuclesCiclos.Ciclos2" />
       <module name="Casa2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuclesCiclos.Fibonachi" />
+      <module name="Casa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuclesCiclos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ForWhileDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForWhileDoWhile" />
-      <module name="Casa2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VacacionesCocaCola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VacacionesCocaCola" />
+      <option name="MAIN_CLASS_NAME" value="BuclesCiclos.ForWhileDoWhile" />
       <module name="Casa2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ciclos2" />
+        <item itemvalue="Application.Fibonachi" />
         <item itemvalue="Application.ForWhileDoWhile" />
+        <item itemvalue="Application.Ciclos2" />
         <item itemvalue="Application.CicloDoWhile" />
         <item itemvalue="Application.Buclewhile" />
-        <item itemvalue="Application.VacacionesCocaCola" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +121,11 @@
       <workItem from="1697743999726" duration="791000" />
       <workItem from="1697823356330" duration="4412000" />
       <workItem from="1698079827963" duration="3485000" />
-      <workItem from="1698162297209" duration="7934000" />
+      <workItem from="1698162297209" duration="8071000" />
+      <workItem from="1698783401163" duration="1702000" />
+      <workItem from="1698785169336" duration="641000" />
+      <workItem from="1699563790413" duration="1288000" />
+      <workItem from="1699640957472" duration="4778000" />
     </task>
     <task id="LOCAL-00001" summary="pruebaCasa2">
       <option name="closed" value="true" />
@@ -160,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698084164293</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pruebaCasa2">
+      <option name="closed" value="true" />
+      <created>1698171857389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698171857389</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pruebaCasa2">
+      <option name="closed" value="true" />
+      <created>1698171949578</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698171949578</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

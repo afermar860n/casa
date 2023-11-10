@@ -1,3 +1,5 @@
+package BuclesCiclos;
+
 public class Buclewhile {
     public static void main(String[] args) {
 

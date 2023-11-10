@@ -1,3 +1,5 @@
+package BuclesCiclos;
+
 public class ForWhileDoWhile {
     public static void main(String[] args) {
 
